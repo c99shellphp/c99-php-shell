@@ -5,7 +5,9 @@
 This repository contains a clean version of the C99 PHP Shell script that can be used for educational purposes, security research and testing environments.
 
 ## What is C99 Shell?
-![PHP Shell Cleaner Tool]([https://raw.githubusercontent.com/c99shellphp/php-shell-cleaner-tool/main/PHP-Shell-Cleaner-Tool.png](https://raw.githubusercontent.com/c99shellphp/c99-php-shell/refs/heads/main/C99%20Shell%20%C4%B0MG.jpeg))
+
+![C99 PHP Shell Interface](https://raw.githubusercontent.com/c99shellphp/c99-php-shell/main/C99%20Shell%20%C4%B0MG.jpeg)
+
 C99 Shell is a PHP based webshell that allows administrators and security testers to manage files, execute commands and view server information directly from a web interface. The c99shell script became popular among developers and security researchers because of its powerful features.
 
 The C99 PHP Shell is commonly used in penetration testing environments to analyze server security and understand how webshell tools operate.
