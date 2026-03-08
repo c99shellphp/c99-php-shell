@@ -43,14 +43,14 @@ Understanding tools like c99shell helps developers and administrators improve se
 
 ## Keywords
 
-c99 shell  
-c99 php shell  
-c99shell  
-c99 php  
-c99.php  
-c99 webshell  
-php webshell  
-shell c99  
+**c99 shell**  
+**c99 php shell**  
+**c99shell**  
+**c99 php**  
+**c99.php**  
+**c99 webshell**  
+**php webshell**  
+**shell c99**  
 
 ## Disclaimer
 
